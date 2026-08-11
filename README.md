@@ -2,7 +2,7 @@
 
 I'm passionate about numbers, data, and finding the story behind the numbers!
 
-I enjoy turning complex data into simple, meaningful insights that help solve business problems and support better decisions. With experience in financial services and healthcare, I work with data to identify trends, and provide consumer  and business insights.
+I enjoy turning complex data into simple, meaningful insights that help solve business problems and support better decisions. With experience in financial services, I work with data to identify trends, and provide consumer  and business insights.
 
 Skills & Tools
 - SQL – Data analysis, querying, and data validation
