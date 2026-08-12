@@ -3,4 +3,4 @@ plugins:
 - jekyll-remote-theme # plugins
 
 title: [Srujana Gottumukkala]
-logo: /Images/profile-picture.jpeg
+logo: assets/images/profile-picture.jpeg
