@@ -1,5 +1,3 @@
-# srujana.github.io
-
 I'm passionate about numbers, data, and finding the story behind the numbers!
 
 I enjoy turning complex data into simple, meaningful insights that help solve business problems and support better decisions. With experience in financial services, I work with data to identify trends, and provide consumer  and business insights.
@@ -20,5 +18,5 @@ What I Enjoy
 - Exploring how data can improve decision-making
 - Turning analysis into actionable business insights
 
-Portfolio
+Portfolio:
 This portfolio showcases projects where I use data to answer business questions and communicate findings clearly.
