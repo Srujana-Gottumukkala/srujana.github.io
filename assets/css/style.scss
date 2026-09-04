@@ -1,8 +1,22 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "jekyll-theme-minimal";
 
-.site-footer {
-  display: none;
+/* Unpin the sidebar so the subtext flows under the photo instead of over it */
+header,
+footer {
+  position: static;
+}
+
+footer {
+  clear: left;
+  padding-bottom: 50px;
+}
+
+header img {
+  display: block;
+  max-width: 270px;
+  margin-bottom: 20px;
+  border-radius: 6px;
 }
