@@ -18,5 +18,9 @@ What I Enjoy
 - Exploring how data can improve decision-making
 - Turning analysis into actionable business insights
 
-Portfolio:
-This portfolio showcases projects where I use data to answer business questions and communicate findings clearly.
+Projects:
+**[Loan Origination & Early Credit Deterioration Analysis](Origination-Analysis.html)**
+Python analysis of 135,000 consumer loans (2022–2024) identifying borrowers whose credit was already deteriorating at origination. These borrowers default at ~1.8x the rate of stable ones.
+*Tools: Python (pandas, matplotlib), Excel*
+
+
