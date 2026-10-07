@@ -20,6 +20,7 @@ What I Enjoy
 
 Projects:
 **[Loan Origination & Early Credit Deterioration Analysis](Origination-Analysis.html)**
+
 Python analysis of 135,000 consumer loans (2022–2024) identifying borrowers whose credit was already deteriorating at origination. These borrowers default at ~1.8x the rate of stable ones.
 *Tools: Python (pandas, matplotlib), Excel*
 
